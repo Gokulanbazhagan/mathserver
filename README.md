@@ -25,7 +25,7 @@ Create a HTML file of forms.
 Publish the website in the given URL
 
 ## PROGRAM :
-'''
+```
 math.html
 <html>
 <head>
@@ -123,12 +123,15 @@ urlpatterns = [
     path('areaofrectangle/',views.rectarea,name="areaofrectangle"),
     path('',views.rectarea,name="areaofrectangleroot")
 ]
-'''
+```
 ## OUTPUT:
-![OUTPUT](./OUT.png)
+![out](https://user-images.githubusercontent.com/119518996/215161130-e990963e-b039-4d0b-8628-9eef10d6e107.png)
+
 
 ### Home Page:
-![HOME PAGE](./home.png)
+![home](https://user-images.githubusercontent.com/119518996/215161314-d8cd2764-b0ed-4d4e-9e61-3b6502aedd63.png)
+
+
 
 
 ## Result:
